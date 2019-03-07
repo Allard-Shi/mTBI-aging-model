@@ -1,1 +1,2 @@
-# The model was aimed to predict the brain age of mTBI patients and thus seek out the factors contributing to the aging of brain.
+# Aging model using DTI and white matter skeleton
+This repository is still under progress and development. The codes will be uploaded soon.
